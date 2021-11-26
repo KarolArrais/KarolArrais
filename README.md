@@ -1,4 +1,8 @@
-### Olá, eu sou a Karolayne Arrais, data engineer e eterna estudante 👋
+<p align="center" stylw="border-radius100%"><img height="auto" width="10%" src="/assets/engenharia%20dados.png"></p>
+
+<h2 align="center">
+  <code><b><i>Olá, eu sou a Karolayne Arrais</i></b></code>
+</h2>
 
 ##
 - 🔭 Hoje trabalho como Engenheira de Dados em um multinacional brasileira
@@ -12,6 +16,7 @@
   <a href="https://github.com/KarolArrais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarolArrais&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolArrais&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 
 ##
