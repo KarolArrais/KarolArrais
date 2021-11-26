@@ -7,8 +7,8 @@
 
 - 🔭 Hoje trabalho como Engenheira de Dados em um multinacional brasileira
 - 🌱 Buscando estudar modelagem e governança de dados, data quality, ELT, arquitetura Hadoop e Cloud
-- 👯 Estou aberta para colaborar com iniciativas de compartilhamento de conhecimento e auxílio na preparação de pessoas que estão iniciando a carreira na área de dados
-- 😄 Pronouns: ela/dela
+- 👯 Estou aberta para colaborar com iniciativas de compartilhamento de conhecimento
+- 😄 Pronomes: ela/dela
 
 ##
 
